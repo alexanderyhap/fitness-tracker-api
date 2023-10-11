@@ -1,0 +1,24 @@
+# .NET Core
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core
+bin/
+obj/
+appsettings.Development.json
+appsettings.json
+
+# Node.js
+node_modules/
+
+.vs/
